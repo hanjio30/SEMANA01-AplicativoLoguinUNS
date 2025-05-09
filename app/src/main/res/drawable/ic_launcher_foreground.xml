@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Texto "UNS" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,25 L88,25 L88,40 L20,40 Z" /> <!-- Rectángulo base -->
+
+    <path
+        android:fillColor="#0057A8"
+        android:pathData="M30,28 L78,28 L78,37 L30,37 Z" /> <!-- Texto UNS -->
+
+    <!-- Texto "UNIVERSIDAD" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,50 L93,50 L93,65 L15,65 Z" />
+
+    <!-- Texto "NACIONAL DEL SANTA" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,75 L98,75 L98,90 L10,90 Z" />
+
+    <path
+        android:fillColor="#0057A8"
+        android:pathData="M15,78 L85,78 L85,87 L15,87 Z" />
+
+</vector>

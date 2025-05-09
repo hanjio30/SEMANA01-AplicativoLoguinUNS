@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación UNS</string>
+
+    <!-- Login -->
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="ingresa_a_tu_cuenta">Ingresa a tu cuenta de estudiante</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="olvidaste_tu_contraseña">¿Olvidaste tu contraseña?</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?Presiona Aquí</string>
+    <string name="registrate">Regístrate</string>
+    <string name="logo_uns">Logo UNS</string>
+        <!-- Añadir esta línea si no existe -->
+        <string name="fondo_app">Fondo de la aplicación</string>
+
+
+    <!-- Registro -->
+    <string name="registro_de_estudiante">Registro de Estudiante</string>
+    <string name="completa_tus_datos">Completa tus datos personales</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="codigo_estudiante">Código de Estudiante</string>
+    <string name="dni">DNI</string>
+    <string name="facultad">Facultad</string>
+    <string name="escuela">Escuela</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="volver">Volver</string>
+
+    <!-- Facultades -->
+    <string-array name="facultades">
+        <item>Seleccionar Facultad</item>
+        <item>Educación y Humanidades</item>
+        <item>Ciencia</item>
+        <item>Ingeniería</item>
+    </string-array>
+
+    <!-- Escuelas por Facultad -->
+    <string-array name="escuelas_educacion">
+        <item>Seleccionar Escuela</item>
+        <item>Educación Inicial</item>
+        <item>Educación Primaria</item>
+        <item>Educación Secundaria</item>
+        <item>Comunicación Social</item>
+        <item>Derecho y Ciencias Políticas</item>
+    </string-array>
+
+    <string-array name="escuelas_ciencias">
+        <item>Seleccionar Escuela</item>
+        <item>Biología en Acuicultura</item>
+        <item>Enfermería</item>
+        <item>Biotecnología</item>
+        <item>Medicina Humana</item>
+        </string-array>
+
+    <string-array name="escuelas_ingenieria">
+        <item>Seleccionar Escuela</item>
+        <item>Ingeniería de Sistemas e Informática</item>
+        <item>Ingeniería Civil</item>
+        <item>Ingeniería Agroindustrial</item>
+        <item>Ingeniería Mecánica</item>
+        <item>Ingeniería en Energía</item>
+        <item>Ingeniería en Agrónoma</item>
+    </string-array>
+
+
+    <!-- Strings para HomeActivity -->
+    <string name="portal_uns">Portal UNS</string>
+    <string name="bienvenido_alumno">¡Bienvenido!</string>
+    <string name="informacion_estudiante">Información del Estudiante</string>
+    <string name="codigo">Código: </string>
+    <string name="dni_dos_puntos">DNI: </string>
+    <string name="facultad_dos_puntos">Facultad: </string>
+    <string name="escuela_dos_puntos">Escuela: </string>
+    <string name="correo_dos_puntos">Correo: </string>
+    <string name="portal_academico">Portal Académico</string>
+    <string name="mi_horario">Mi Horario</string>
+    <string name="mis_cursos">Mis Cursos</string>
+    <string name="mis_notas">Mis Notas</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+    <!-- Mensajes para inicio y registro -->
+    <string name="registro_exitoso">Registro exitoso. Ahora puedes iniciar sesión.</string>
+    <string name="login_exitoso">¡Bienvenido al Portal UNS!</string>
+    <string name="credenciales_incorrectas">Correo o contraseña incorrectos.</string>
+    <string name="usuario_ya_existe">El usuario ya existe con ese correo, DNI o código.</string>
+    <string name="bienvenido_a_uns">Bienvenido al Portal UNS</string>
+    <string name="informacion_registrada">Información registrada:</string>
+</resources>

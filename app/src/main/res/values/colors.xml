@@ -1,0 +1,13 @@
+<resources>
+    <color name="colorPrimary">#8B0000</color> <!-- Rojo Oscuro -->
+    <color name="colorPrimaryDark">#450000</color> <!-- Rojo más oscuro -->
+    <color name="colorAccent">#FFD700</color> <!-- Dorado -->
+    <color name="colorTextPrimary">#FFFFFF</color> <!-- Texto blanco -->
+    <color name="colorTextSecondary">#E2D1D1</color> <!-- Texto gris claro -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Fondo blanco -->
+    <color name="colorBackgroundSecondary">#F5F5F5</color> <!-- Fondo gris muy claro -->
+    <color name="colorNer">#D3CD7E</color>
+    <color name="colorPrimaryLight">#A9DC6D</color>
+    <color name="colorLabel">#757575</color> <!-- Color gris para etiquetas -->
+    <color name="colorTextValue">#212121</color>
+</resources>
